@@ -41,8 +41,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ThuanPC-vn/ThuanPC-vn/output/snake.svg" alt="Snake animation" />
 
 ###
